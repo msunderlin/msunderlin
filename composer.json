@@ -7,5 +7,12 @@
             "email": "msunderlin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php-di/php-di": "^6.2"
+    },
+    "autoload": {
+        "psr-4":{
+            "ExampleApp\\":"src/"
+        }
+    }
 }
