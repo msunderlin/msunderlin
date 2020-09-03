@@ -1,0 +1,11 @@
+{
+    "name": "msunderlin/msunderlin",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Michael Sunderlin",
+            "email": "msunderlin@gmail.com"
+        }
+    ],
+    "require": {}
+}
