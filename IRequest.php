@@ -1,5 +1,5 @@
-<?php 
-interface IRequest {
-	public function getBody();
-
+<?php
+interface IRequest
+{
+    public function getBody();
 }
