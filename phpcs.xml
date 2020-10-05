@@ -1,5 +1,0 @@
-<?xml version="1.0" ?>
-<ruleset name="Custom Standard" namespace="msunderlin\CS\Standard">
-	<description> Custom coding standard based on PSR-2</description>
-	<rule ref="PSR2" />
-</ruleset>
